@@ -22,3 +22,20 @@ A p-value of 5.35e-11 is significantly smaller than the 0.05%. This indicates th
 ### Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 This linear model can effectively predict mpg of MechaCar because it has an r-squared of 0.7149, which indicates that 71% of the variability observed in the target variable is explained by the regression model.
+
+## Summary Statistics on Suspension Coils
+![d3](https://github.com/mabulhassan/MechaCar_Statistical_Analysis/blob/main/sus_coli_summary.png)
+
+### Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+
+## T-Tests on Suspension Coils,
+
+## Study Design: MechaCar vs Competition
+
+### What metric or metrics are you going to test?
+
+### What is the null hypothesis or alternative hypothesis?
+
+### What statistical test would you use to test the hypothesis? And why?
+
+### What data is needed to run the statistical test?
