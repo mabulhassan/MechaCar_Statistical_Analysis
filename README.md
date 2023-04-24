@@ -24,7 +24,10 @@ A p-value of 5.35e-11 is significantly smaller than the 0.05%. This indicates th
 This linear model can effectively predict mpg of MechaCar because it has an r-squared of 0.7149, which indicates that 71% of the variability observed in the target variable is explained by the regression model.
 
 ## Summary Statistics on Suspension Coils
-![d3](https://github.com/mabulhassan/MechaCar_Statistical_Analysis/blob/main/sus_coli_summary.png)
+![d3](https://github.com/mabulhassan/MechaCar_Statistical_Analysis/blob/main/total_summary.png)
+
+
+![d3](https://github.com/mabulhassan/MechaCar_Statistical_Analysis/blob/main/lot_summary.png)
 
 ### Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
