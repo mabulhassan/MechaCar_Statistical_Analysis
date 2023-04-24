@@ -39,9 +39,13 @@ We notice from the summary statitistics that the overall variance for Suspension
 ## Study Design: MechaCar vs Competition
 
 ### What metric or metrics are you going to test?
-
+Two metrics that can be measured to compare with competition are
+1) Price of the vehicle -- Dependent variable 
+2) MPG (Fuel Effeciency) -- Independent variable
 ### What is the null hypothesis or alternative hypothesis?
-
+Null hypothesis: the price of mecaChar is in line with competitors that have similar MGP rates.
+Alternative hypothesis: the price of mechaCar is too expensive or too cheap compared to competition based on MPG rates.
 ### What statistical test would you use to test the hypothesis? And why?
+We can do a linear regression test to determine if there is a correclation between MPG rates and selling prices.  
 
 ### What data is needed to run the statistical test?
