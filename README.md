@@ -28,8 +28,11 @@ This linear model can effectively predict mpg of MechaCar because it has an r-sq
 
 
 ![d3](https://github.com/mabulhassan/MechaCar_Statistical_Analysis/blob/main/lot_summary.png)
+The t-tests show the overall mean of the suspension coils dataset sample, which is 1498.78. The t-test calculates the summary median, variance and standard devation. 
+The one-t test determines if there is no statistical difference between the mean of the sample distribution and the mean of the population distribution. The data for suspension coils t-test shows that the mean is close to the population mean because the p-value of 0.607 is higher than than the standard 0.05. Therefore, we cannot reject the null hypothesis.
 
-### Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+### The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+We notice from the summary statitistics that the overall variance for Suspension Coils is 62.291 PSI, which is lower than the design spec of 100 PSI. The breakdown of each lot using grouping indicates that LOT1 and LOT2 have a much lower variance than the spec limit. However, LOT3 exceeds the limit and raises the overall average variance of the the dataset.
 
 ## T-Tests on Suspension Coils,
 
