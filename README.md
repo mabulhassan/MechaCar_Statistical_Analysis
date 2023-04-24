@@ -9,7 +9,7 @@ The mechaCar dataset contains mg test results 50 prototype MechaCars. The MechaC
 
 ###Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
-![d3](https://github.com/mabulhassan/MechaCar_Statistical_Analysis/blob/main/mechar_df_Sig_summary.png)
+![d3](https://github.com/mabulhassan/MechaCar_Statistical_Analysis/blob/main/mechar_df_Sig_Summary.png)
 
 ###Is the slope of the linear model considered to be zero? Why or why not?
 
