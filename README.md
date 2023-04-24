@@ -5,12 +5,14 @@ The mechaCar dataset contains mg test results 50 prototype MechaCars. The MechaC
 
 ##Results
 
-![d3](https://github.com/mabulhassan/MechaCar_Statistical_Analysis/blob/main/mechar_df_summary.png)
-
 ###Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-
 ![d3](https://github.com/mabulhassan/MechaCar_Statistical_Analysis/blob/main/mechar_df_Sig_Summary.png)
+Since Vehicle lenght with a p-value of  2.60e-12 and ground_clearance with a p-value of 5.21e-08 are much lower than the 0.05% assumed value, they are unlikely to provide a non-random amount of variance.
 
 ###Is the slope of the linear model considered to be zero? Why or why not?
 
+![d3](https://github.com/mabulhassan/MechaCar_Statistical_Analysis/blob/main/mechar_df_summary.png)
+A p-value of 5.35e-11 is significantly smaller than the 0.05%. This indicates that there is sufficient reason to reject the null hypothesis and assume that the slope of the linear regression is a non-zero slope.
+
 ###Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+This linear model can effectively predict mpg of MechaCar because it has an r-squared of 0.7149, which indicates that 71% of the variability observed in the target variable is explained by the regression model.
