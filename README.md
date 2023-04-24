@@ -28,6 +28,7 @@ This linear model can effectively predict mpg of MechaCar because it has an r-sq
 
 
 ![d3](https://github.com/mabulhassan/MechaCar_Statistical_Analysis/blob/main/lot_summary.png)
+
 The t-tests show the overall mean of the suspension coils dataset sample, which is 1498.78. The t-test calculates the summary median, variance and standard devation. 
 The one-t test determines if there is no statistical difference between the mean of the sample distribution and the mean of the population distribution. The data for suspension coils t-test shows that the mean is close to the population mean because the p-value of 0.607 is higher than than the standard 0.05. Therefore, we cannot reject the null hypothesis.
 
